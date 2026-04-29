@@ -77,11 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<h1>Let us Connect and Contribute!!!</h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
