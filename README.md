@@ -8,11 +8,11 @@
 
 ###
 
-<div width="50vw">
+<div>
   <img width="400" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"/>
 </div>
 
-<div width="50vw">
+
 <h1 align="right">Tech Stack</h1>
 
 ###
@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
 </div>
-</div>
+
 ###
 
 # 📊 My Stats:
