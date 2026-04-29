@@ -8,15 +8,19 @@
 
 ###
 
+<div>
+  <img width="400" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"/>
+</div>
 
-<h1 align="left">Tech Stack</h1>
+
+<h1 align="right">Tech Stack</h1>
 
 ###
-<h2 align="center">Frontend & Backend Development</h2>
+<h2 align="right">Frontend & Backend Development</h2>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
@@ -36,7 +40,7 @@
 
 ###
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="right">Programming Languages</h2>
 
 ###
 
