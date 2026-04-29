@@ -1,7 +1,12 @@
 <h1 align="center">Hello 👋, I am Jiya Kyada</h1>
 
-# 💫 About Me:
-Currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">📚 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>🎯 Learning and exploring various  programming languages!<br>✨ Interested in developing dynamic web pages and enhancing skills through various web based projects!</h4>
+
+###
 
 
 ## 🌐 Socials:
@@ -32,7 +37,7 @@ Currently pursuing a Bachelor of Technology in Computer Science and Engineering.
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h4 align="center">Programming Languages</h4>
 
 ###
 
@@ -45,8 +50,8 @@ Currently pursuing a Bachelor of Technology in Computer Science and Engineering.
 </div>
 
 ###
-
-<h4 align="left">Database Tools</h4>
+<hr/>
+<h4 align="center">Database Tools</h4>
 
 ###
 
