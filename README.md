@@ -15,7 +15,7 @@
     </td>
     <td width="60%" align="center">
 
-<h1>Tech Stack</h1>
+<h1>Tech Overview</h1>
 
 <h2>Frontend & Backend Development</h2>
 
