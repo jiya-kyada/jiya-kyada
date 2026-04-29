@@ -1,7 +1,8 @@
 # Hello 👋  I am Jiya Kyada
 <br/>
+
 ## 💫 About Me
-Currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>
+Currently pursuing a Bachelor of Technology in Computer Science and Engineering.
 <br/>
 
 ## 💻 Tech Stack
@@ -23,7 +24,7 @@ Currently pursuing a Bachelor of Technology in Computer Science and Engineering.
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
 <br/>
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 <br/><br/>
