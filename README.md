@@ -9,7 +9,7 @@
 ###
 
 <table>
-  <tr>
+  <tr border=2>
     <td width="40%" align="center">
       <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="100%" />
     </td>
@@ -54,7 +54,8 @@
 </div>
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect and Collaborate!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
 ### 🔝 Top Contributed Repo
