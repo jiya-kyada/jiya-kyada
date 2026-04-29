@@ -1,5 +1,4 @@
-## Hello 👋 
-## I am Jiya Kyada
+## Hello 👋  I am Jiya Kyada
 
 # 💫 About Me:
 Currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>
