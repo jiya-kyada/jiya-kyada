@@ -65,11 +65,11 @@
 ###
 
 # 📊 My Stats:
+<div align="center">
 ![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-###
-###
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jiya-kyada&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
