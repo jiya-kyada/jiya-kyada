@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I am Jiya Kyada</h1>
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -9,12 +9,7 @@
 ###
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
-
-###
-
-<h2 align="left">Tech Stack</h2>
+<h1 align="left">Tech Stack</h1>
 
 ###
 <h2 align="center">Frontend & Backend Development</h2>
@@ -71,11 +66,22 @@
 
 # 📊 My Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jiya-kyada&theme=github_dark&hide_border=false)<br/>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jiya-kyada&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiya-kyada&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiya-kyada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
+
+###
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
