@@ -78,10 +78,6 @@
 
 
 
-## 🌐 Let Us Connect and Collaborate!
-
-###
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
