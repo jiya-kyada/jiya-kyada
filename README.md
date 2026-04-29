@@ -12,8 +12,12 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
-# 💻 Tech Stack:
-<h4 align="left">Frontend & Backend Development</h4>
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+<h4 align="center">Frontend & Backend Development</h4>
 
 ###
 
@@ -36,7 +40,7 @@
 </div>
 
 ###
-
+<hr/>
 <h4 align="center">Programming Languages</h4>
 
 ###
