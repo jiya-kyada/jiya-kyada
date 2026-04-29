@@ -40,7 +40,7 @@
 </div>
 
 ###
-<hr/>
+
 <h4 align="center">Programming Languages</h4>
 
 ###
