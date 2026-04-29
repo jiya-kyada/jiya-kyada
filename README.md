@@ -78,12 +78,10 @@
 </div>
 
 <h1>Let us Connect and Contribute!!!</h1>
-<div align="center">
-  
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
-</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
