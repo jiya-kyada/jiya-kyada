@@ -13,7 +13,7 @@
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100%" />
     </td>
-    <td width="60%" align="right">
+    <td width="60%" align="center">
 
 <h1>Tech Stack</h1>
 
