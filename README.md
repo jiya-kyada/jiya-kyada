@@ -17,7 +17,7 @@
 <h2 align="left">Tech Stack</h2>
 
 ###
-<h4 align="center">Frontend & Backend Development</h4>
+<h2 align="center">Frontend & Backend Development</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="center">Programming Languages</h4>
+<h2 align="center">Programming Languages</h2>
 
 ###
 
@@ -54,8 +54,8 @@
 </div>
 
 ###
-<hr/>
-<h4 align="center">Database Tools</h4>
+
+<h2 align="center">Database Tools</h2>
 
 ###
 
