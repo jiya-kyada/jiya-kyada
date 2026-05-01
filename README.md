@@ -11,6 +11,7 @@
 
 ###
 
+<br/>
 <table>
   <tr border=2>
     <td width="40%" align="center">
@@ -66,9 +67,11 @@
 <hr/>
 
 <h2>🌐 Let's Connect and Collaborate!</h2>
-
+<div align="center" style="font-size='larger'">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
+</div>
 <hr/>
 <br/>
 
