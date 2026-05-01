@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋, I am Jiya Kyada</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello 👋 %20I%20am%20Jiya%20Kyada&fontSize=53&fontColor=FFFFFF&fontAlign=50&fontAlignY=78&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
+###
 <h1 align="left">About me</h1>
 
 ###
