@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello%20👋%20,%20I%20am%20Jiya%20Kyada&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello%20👋%20,%20I%20am%20Jiya%20Kyada&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 <br/>
 
@@ -67,7 +67,7 @@
 <hr/>
 
 <h2>🌐 Let's Connect and Collaborate!</h2>
-<div align="center" style="font-size='larger'">
+<div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada69@gmail.com) 
 
