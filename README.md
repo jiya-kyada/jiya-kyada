@@ -59,12 +59,6 @@
 
 <br/>
 <hr/>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-<hr/>
 
 <h2>🌐 Let's Connect and Collaborate!</h2>
 <div>
@@ -74,7 +68,12 @@
 </div>
 <hr/>
 <br/>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+<hr/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
