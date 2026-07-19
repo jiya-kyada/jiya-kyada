@@ -75,7 +75,7 @@
 <hr/>
 <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
