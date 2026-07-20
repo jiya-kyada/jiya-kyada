@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=ffca85&center=true&vCenter=true&width=800&height=60&lines=Passionate+About+Technology+%F0%9F%92%BB%3B+Database+Explorer+%F0%9F%97%84%EF%B8%8F%3B+Problem+Solver+%F0%9F%A7%A9%3B+UI+%2F+UX+Developer++%E2%9C%A8%3B+Driven+by+Innovation+%F0%9F%9A%80" alt="typing banner" /></a>
+<a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=4000&pause=1000&color=ffca85&center=true&vCenter=true&width=900&height=60&lines=Passionate+About+Technology+%F0%9F%92%BB%3B+Database+Explorer+%F0%9F%97%84%EF%B8%8F%3B+Problem+Solver+%F0%9F%A7%A9%3B+UI+%2F+UX+Developer++%E2%9C%A8%3B+Driven+by+Innovation+%F0%9F%9A%80" alt="typing banner" /></a>
 </div>
 
 <br/>
