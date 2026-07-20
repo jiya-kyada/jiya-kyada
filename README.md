@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=ffca85&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB%3BOpen+Source+Enthusiast+%F0%9F%8C%B1%3BAlways+learning+something+new+%F0%9F%9A%80" alt="typing banner" /></a>
+<a href="https://github.com/jiya-kyada"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=e5289e&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB%3BOpen+Source+Enthusiast+%F0%9F%8C%B1%3BAlways+learning+something+new+%F0%9F%9A%80" alt="typing banner" /></a>
 </div>
 
 <br/>
