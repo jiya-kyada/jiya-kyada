@@ -56,6 +56,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/jiya-kyada/jiya-kyada/snake-output/snake.svg" alt="Snake animation" />
+
 <br/>
 <hr/>
 
