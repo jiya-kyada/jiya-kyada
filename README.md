@@ -52,13 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=jiya-kyada&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div> -->
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/jiya-kyada/jiya-kyada/snake-output/snake.svg" alt="Snake animation" />
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiya-kyada/jiya-kyada/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiya-kyada/jiya-kyada/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jiya-kyada/jiya-kyada/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
 
 
 <div align="center">
