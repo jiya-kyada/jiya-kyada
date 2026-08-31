@@ -28,15 +28,16 @@
   
 ###
   
-<p>
+<h4>
 ⚙️ .NET & Software Development — Deepening my understanding of the .NET ecosystem and modern development practices.<br/>
 🤖 Machine Learning — Exploring machine learning concepts, algorithms, and practical applications.<br/>
 💻 Data Structures & Algorithms — Building strong problem-solving skills and improving algorithmic thinking.<br/>
 🗄️ Advanced SQL — Learning advanced querying techniques, optimization, complex joins, window functions, CTEs, and database concepts.
-<p>
+</h4>
 
 ###
 
+<br/>
 <br/>
 <table>
   <tr border=2>
