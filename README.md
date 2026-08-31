@@ -115,10 +115,12 @@
 
 <hr/>
 <div align="center">'
-  <h4>
+  <h3>
   🌟 Thanks for stopping by! — Keep building, Keep innovating, Keep Learning ⚡
   <br/>
-  ✅ Think • Code • Learn • Build • Evolve </h4>
+  <br/>
+  ✅ Think • Code • Learn • Build • Evolve 
+  </h3>
 </div>
 
 <!--### 🔝 Top Contributed Repo
