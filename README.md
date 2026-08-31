@@ -96,6 +96,12 @@
 </p>
 
 <hr/>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+<hr/>
 
 # 🌐 Let's Connect and Collaborate!
 <div>
@@ -112,12 +118,7 @@
 </p> -->
 
 </div>
-<hr/>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
 <hr/>
 <div align="center">
   <h2>  Think • Code • Learn • Build • Evolve </h2>
