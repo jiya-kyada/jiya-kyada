@@ -7,12 +7,12 @@
 <a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=900&color=ffca85&center=true&vCenter=true&width=900&height=60&lines=Passionate+About+Technology+%F0%9F%92%BB%3B+Database+Explorer+%F0%9F%97%84%EF%B8%8F%3B+Problem+Solver+%F0%9F%A7%A9%3B+UI+%2F+UX+Developer++%E2%9C%A8%3B+Driven+by+Innovation+%F0%9F%9A%80" alt="typing banner" /></a>
 </div>
 <br/>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiya-kyada&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
   <a href="https://github.com/jiya-kyada?tab=followers">
     <img src="https://img.shields.io/github/followers/jiya-kyada?label=Followers&style=flat&color=2E9EF7" alt="followers" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
@@ -21,6 +21,16 @@
 ###
 
 <h4 align="left">📚 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>🎯 Learning and exploring various  programming languages!<br>✨ Interested in developing dynamic web pages and enhancing skills through various web based projects!</h4>
+
+<br/>
+🔭<h2>Currently Learning<h2/>
+<h4>
+.NET & Software Development — Deepening my understanding of the .NET ecosystem and modern development practices.<br/>
+Machine Learning — Exploring machine learning concepts, algorithms, and practical applications.<br/>
+Data Structures & Algorithms — Building strong problem-solving skills and improving algorithmic thinking.<br/>
+Advanced SQL — Learning advanced querying techniques, optimization, complex joins, window functions, CTEs, and database concepts.
+</h4>
+
 
 ###
 
