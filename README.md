@@ -1,90 +1,94 @@
-<div align="center">
-  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello%20👋%20,%20I%20am%20Jiya%20Kyada&fontSize=55&fontColor=F4C2C2&fontAlign=50&fontAlignY=62&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-<br/>
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">A passionate Full-Stack Developer from YOUR_COUNTRY</h3>
 
-<div align="center">
-<a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=900&color=ffca85&center=true&vCenter=true&width=900&height=60&lines=Passionate+About+Technology+%F0%9F%92%BB%3B+Database+Explorer+%F0%9F%97%84%EF%B8%8F%3B+Problem+Solver+%F0%9F%A7%A9%3B+UI+%2F+UX+Developer++%E2%9C%A8%3B+Driven+by+Innovation+%F0%9F%9A%80" alt="typing banner" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things;Building+Cool+Stuff+With+Code" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+  </a>
+</p>
 
-<h1 align="left">About me</h1>
+---
 
-###
+### 🚀 About Me
 
-<h4 align="left">📚 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>🎯 Learning and exploring various  programming languages!<br>✨ Interested in developing dynamic web pages and enhancing skills through various web based projects!</h4>
+- 🔭 I'm currently working on **PROJECT_NAME**
+- 🌱 I'm currently learning **TECH_OR_SKILL**
+- 👯 I'm looking to collaborate on **TYPE_OF_PROJECT**
+- 💬 Ask me about **YOUR_EXPERTISE**
+- 📫 How to reach me: **YOUR_EMAIL**
+- ⚡ Fun fact: **SOMETHING_FUN_ABOUT_YOU**
 
-###
+---
 
-<br/>
-<table>
-  <tr border=2>
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="100%" />
-    </td>
-    <td width="60%" align="center">
+### 🛠️ Tech Stack
 
-<h1>Tech Overview</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,docker,aws,mongodb,mysql,figma" />
+</p>
 
-<h2>Programming Languages</h2>
+> Tip: swap the comma-separated list above with whatever you actually use — full icon list is at https://skillicons.dev
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+---
 
-<h2>Frontend & Backend Development</h2>
+### 📊 GitHub Stats
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<h2>Database Tools</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
 
+---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
-  </td>
-  </tr>
-</table>
-  
-###
+> This needs a one-time GitHub Actions setup — instructions and the workflow file are in the accompanying `snake.yml` I've generated for you.
 
-# 📊 My Stats & Contributions
-<div align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+---
 
-</div>
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jiya-kyada&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> -->
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_SITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-<hr/>
-
-<h2>🌐 Let's Connect and Collaborate!</h2>
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiyakyada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyakyada06@gmail.com) 
-
-</div>
-<hr/>
-<br/>
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jiya-kyada&limit=5&theme=github_dark&combine_all_yearly_contributions=true)-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>⭐ From YOUR_USERNAME — thanks for stopping by!</i></p>
