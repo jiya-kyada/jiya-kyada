@@ -75,15 +75,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiya-kyada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <!-- github_dark&hide_border=false -->
+
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&theme=tokyo-night&order=5&hide_title=true&hide_border=true" alt="activity graph" />
+</p>
+
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-kyada&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 
 
