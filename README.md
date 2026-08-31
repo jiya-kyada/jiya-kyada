@@ -72,11 +72,6 @@
 # 📊 My Stats & Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiya-kyada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiya-kyada&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiya-kyada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <!-- github_dark&hide_border=false -->
@@ -94,6 +89,15 @@
 <br/>
 <hr/>
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/jiya-kyada/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+
+
+<hr/>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
