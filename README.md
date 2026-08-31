@@ -23,16 +23,17 @@
 <h4 align="left">📚 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>🎯 Learning and exploring various  programming languages!<br>✨ Interested in developing dynamic web pages and enhancing skills through various web based projects!</h4>
 
 <br/>
+
 <h1>🔭 Currently Learning <h1/>
   
 ###
   
-<h4>
+<p>
 ⚙️ .NET & Software Development — Deepening my understanding of the .NET ecosystem and modern development practices.<br/>
 🤖 Machine Learning — Exploring machine learning concepts, algorithms, and practical applications.<br/>
 💻 Data Structures & Algorithms — Building strong problem-solving skills and improving algorithmic thinking.<br/>
 🗄️ Advanced SQL — Learning advanced querying techniques, optimization, complex joins, window functions, CTEs, and database concepts.
-</h4>
+<p>
 
 ###
 
