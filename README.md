@@ -16,14 +16,14 @@
 
 <br/>
 
-<h1 align="left">About me</h1>
+<h1 align="left">👋 About me</h1>
 
 ###
 
 <h4 align="left">📚 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.<br>🎯 Learning and exploring various  programming languages!<br>✨ Interested in developing dynamic web pages and enhancing skills through various web based projects!</h4>
 
 <br/>
-<h1>🔭Currently Learning <h1/>
+<h1>🔭 Currently Learning <h1/>
   
 ###
   
