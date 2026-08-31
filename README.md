@@ -22,7 +22,7 @@
 
 <h1>🔭 Currently Learning <h1/>
   
-<h4>
+<h4 align="left">
 ⚙️ .NET & Software Development — Deepening my understanding of the .NET ecosystem and modern development practices.<br/>
 🤖 Machine Learning — Exploring machine learning concepts, algorithms, and practical applications.<br/>
 💻 Data Structures & Algorithms — Building strong problem-solving skills and improving algorithmic thinking.<br/>
