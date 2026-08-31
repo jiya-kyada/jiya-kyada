@@ -14,8 +14,6 @@
   </a>
 </p> -->
 
-<br/>
-
 <h1 align="left">👋 About me</h1>
 
 ###
@@ -68,6 +66,8 @@
 </table>
   
 ###
+
+<br/>
 
 # 📊 My Stats & Contributions
 <div align="center">
