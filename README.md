@@ -95,14 +95,6 @@
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/jiya-kyada/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-
-
-<hr/>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 <hr/>
 
 # 🌐 Let's Connect and Collaborate!
@@ -119,6 +111,11 @@
   </a>
 </p> -->
 
+</div>
+<hr/>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 <hr/>
