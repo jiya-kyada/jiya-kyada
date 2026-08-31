@@ -1,18 +1,11 @@
 <div align="center">
-  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello%20👋%20,%20I%20am%20Jiya%20Kyada&fontSize=55&fontColor=000000&fontAlign=50&fontAlignY=62&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello%20👋%20,%20I%20am%20Jiya%20Kyada&fontSize=55&fontColor=2E9EF7&fontAlign=50&fontAlignY=62&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 <br/>
 
 <div align="center">
 <a href="https://github.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=900&color=ffca85&center=true&vCenter=true&width=900&height=60&lines=Passionate+About+Technology+%F0%9F%92%BB%3B+Database+Explorer+%F0%9F%97%84%EF%B8%8F%3B+Problem+Solver+%F0%9F%A7%A9%3B+UI+%2F+UX+Developer++%E2%9C%A8%3B+Driven+by+Innovation+%F0%9F%9A%80" alt="typing banner" /></a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/jiya-kyada">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things;Building+Cool+Stuff+With+Code" alt="Typing SVG" />
-  </a>
-</p>
-
 
 <br/>
 
