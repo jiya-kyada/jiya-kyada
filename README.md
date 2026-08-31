@@ -77,7 +77,7 @@
 <!-- github_dark&hide_border=false -->
 <div align="center">
   
-![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=jiya-kyada&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 </div>
 
